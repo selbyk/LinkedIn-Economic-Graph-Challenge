@@ -1,4 +1,4 @@
-linkedin-social-rewards
+LinkedIn Economic Graph Challenge
 =======================
 
 Proposal submission to [The LinkedIn Economic Graph Challenge](http://economicgraphchallenge.linkedin.com/).
