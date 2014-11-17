@@ -26,9 +26,9 @@ Proposal Requirements:
 5. Describe the institutional support/approvals that you have already received from this research (if any)
 6. The main proposal should not exceed 1000 words. You may provide link to supplementary materials below
 
-My idea stems from Sandy Pentland’s lecture on Social Physics: How Good Ideas Spread, one of the many great Talks at Google. I do not have the time or resources to do this alone, but if the right team comes together, we might be able to make it happen.
-
 I believe the users participating in the social rewards system will generate a more sustained increase in network activity than users invited who do not participate in the social rewards system.  For the system to work, participates must be selected using the weight of their known binary relationship with those they invite, and only the persons with a relational weight, calculated based on whatever known relationship strength indicators we have access to and can calculate, above a to-be-determined constant should be offered entry into the program. If both of the participants accept the terms of the program, they will receive rewards based on the activity of their partner, incentivizing familiar communication urging the other to be involved in the LinkedIn community. The networks of the users and communities they are a part of can be monitored over time and compared to the networks of other user invite pairs not qualified, qualified and not selected, and those who opted out of the program.  Hopefully, this data will reveal that the idea & it's implementation was a sucess.
+
+My idea stems from [Sandy Pentland](http://web.media.mit.edu/~sandy/)’s lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow), one of the many great [Talks at Google](http://www.google.com/talks/). I do not have the time or resources to do this alone, but if the right team comes together, we might be able to make it happen.
 
 Authors
 ---
@@ -37,6 +37,8 @@ Selby Kendrick
 
 Approximately 10 years of experience with Linux computing, building server stacks, creating software & webapps, and playing around with programmer logic.
 
+Contribute
+---
 
 If you want to contribute I'd be more than happy to hear your ideas.
 
