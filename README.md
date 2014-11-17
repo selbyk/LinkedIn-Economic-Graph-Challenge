@@ -15,16 +15,11 @@ Abstract Requirements
 
 I want to help build LinkedIn's vision of economic opportunity for every member of the global
 workforce by applying social reward techniques shown to double observed network activity in a
-way that may stimulate network growth with an increase in sustained network activity. I think
-it’s possible to improve on LinkedIn’s method of finding new users by integrating a social
-rewards system designed to keep invited users engaged long enough to become a member of the
-LinkedIn community and believe the users participating in the social rewards system will
+way that may stimulate the reach of LinkedIn's network while also increasing the activity of users
+within LinkedIn communities over a sustained period of time. I think improving LinkedIn’s user invite system by integrating a social a social rewards system designed to keep invited users engaged in LinkedIn communities of their choosing could help acheive LinkedIn's vision by using old relationships to encourage the building and growth of communities within LinkedIn. I believe the users participating in the social rewards system will
 generate a more sustained increase in network activity than users invited who do not participate
-in the social rewards system.  Participates must be selected using the weight of their known
-binary relationship with those they invite, and only the persons with a relational weight above
-a to-be-determined constant should be offered entry into the program. If both of the participants
-accept the terms of the program, they will receive rewards based on the activity of their partner,
-incentivizing familiar communication urging the other to be involved in the LinkedIn community.
+in the social rewards system.  For the system to work, participates must be selected using the weight of their known
+binary relationship with those they invite, and only the persons with a relational weight, calculated based on whatever known relationship strength indicators we have access to and can calculate, above a to-be-determined constant should be offered entry into the program. If both of the participants accept the terms of the program, they will receive rewards based on the activity of their partner, incentivizing familiar communication urging the other to be involved in the LinkedIn community. The networks of the users and communities they are a part of can be monitored over time and compared to the networks of other user invite pairs not qualified, qualified and not selected, and those who opted out of the program.  Hopefully, this data will reveal that the idea & it's implementation was a sucess.
 
 Proposal Requirements:
 ---
