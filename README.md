@@ -3,7 +3,9 @@ LinkedIn Economic Graph Challenge
 
 Proposal submission to [The LinkedIn Economic Graph Challenge](http://economicgraphchallenge.linkedin.com/).
 
-My idea stems from [Sandy Pentland](http://web.media.mit.edu/~sandy/)’s lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow), one of the many great [Talks at Google](http://www.google.com/talks/). I do not have the time or resources to do this alone, but if the right team comes together, we might be able to make it happen.
+[Here](http://www.slideshare.net/linkedin/linkedin-economic-graph-challenge-rules/1) are the rules, and my idea is below.
+
+My idea stems from [Sandy Pentland](http://web.media.mit.edu/~sandy/)’s lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow), one of the many great [Talks at Google](http://www.google.com/talks/). Watching [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow) is required to understand the mechanisms I am trying to incorporate. I do not have the time or resources to do this alone, but if the right team comes together, we might be able to build a successful system.
 
 # A System for Sustained Network Growth While Increasing Network Activity
 ## Building on Social Reward Systems and Their Observed Effect on Network Activity
