@@ -36,10 +36,7 @@ Proposal Requirements:
 6. The main proposal should not exceed 1000 words. You may provide link to supplementary materials below
 
 
-I do not know if this is worth pursuing, but my idea stems from [Sandy Pentland](http://web.media.mit.edu/~sandy/)’s
-lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow), one of the many
-great [Talks at Google](http://www.google.com/talks/). If the right team comes together, we could probably make
-it happen.
+My idea stems from [Sandy Pentland](http://web.media.mit.edu/~sandy/)’s lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch?v=HMBl0ttu-Ow), one of the many great [Talks at Google](http://www.google.com/talks/). I do not have the time or resources to do this alone, but if the right team comes together, we might be able to make it happen.
 
 Authors
 ---
