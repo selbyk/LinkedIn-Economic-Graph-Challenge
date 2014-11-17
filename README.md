@@ -3,8 +3,8 @@ linkedin-social-rewards
 
 Proposal submission to [The LinkedIn Economic Graph Challenge](http://economicgraphchallenge.linkedin.com/).
 
-# A System for Sustained Network & Network Activity Growth
-## Building On Social Reward Systems and Observed Network Activity Growth
+# A System for Sustained Network Growth While Increasing The Activity Of That Network
+## Building On Social Reward Systems and the Observed Effect on Network Activity
 ---
 
 Abstract Requirements
