@@ -41,7 +41,11 @@ lecture on [Social Physics: How Good Ideas Spread](https://www.youtube.com/watch
 great [Talks at Google](http://www.google.com/talks/). If the right team comes together, we could probably make
 it happen.
 
+Authors
+---
+
 Selby Kendrick
+
 Approximately 10 years of experience with Linux computing, building server stacks, creating software & webapps, and playing around with programmer logic.
 
 
