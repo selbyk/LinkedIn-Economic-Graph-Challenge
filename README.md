@@ -35,6 +35,8 @@ Authors
 
 Selby Kendrick
 
+www.linkedin.com/pub/selby-kendrick/50/289/650/
+
 Approximately 10 years of experience with Linux computing, building server stacks, creating software & webapps, and playing around with programmer logic.
 
 Contribute
