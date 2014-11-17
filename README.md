@@ -18,7 +18,7 @@ Abstract Requirements
 I want to help build LinkedIn's vision of economic opportunity for every member of the global
 workforce by applying social reward techniques shown to double observed network activity in a
 way that may stimulate the reach of LinkedIn's network while also increasing the activity of users
-within LinkedIn communities over a sustained period of time. I think improving LinkedIn’s user invite system by integrating a social rewards system designed to keep invited users engaged in LinkedIn communities of their choosing could help acheive LinkedIn's vision by distinguishing old relationships and encouraging the foudation and growth of communities within LinkedIn by allowing qualifying users to opt-in to a reward system that works based on the activity of peers they've invited to LinkedIn within LinkedIn communities. 
+within LinkedIn communities over a sustained period of time. I think improving LinkedIn’s user invite system by integrating a social rewards system designed to keep invited users engaged in LinkedIn communities of their choosing could help acheive LinkedIn's vision. By distinguishing old relationships, the foudation and growth of communities within LinkedIn can be encouraged by allowing users who meet the basic requirements to opt-in to a reward system that works based on the activity within LinkedIn communities of the friend they've invited to LinkedIn. 
 
 Proposal Requirements:
 ---
