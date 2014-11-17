@@ -46,3 +46,5 @@ If you want to contribute I'd be more than happy to hear your ideas.
 
 More research is required, and everything is open for debate.
 
+I'd prefer for discussion to be done here, on GitHub. Please [learn how to use git](http://pcottle.github.io/learnGitBranching/).
+
